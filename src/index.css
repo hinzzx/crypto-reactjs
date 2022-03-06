@@ -30,8 +30,8 @@ body {
   width: 50%;
   height: 4vh;
   border: none;
-  border-radius: 5px;
-  background-color: rgba(255, 255, 255, 0.76);
+  border-radius: 32px 32px 32px 32px ;
+  background-color: rgba(148, 148, 148, 0.76);
   font-size: 1rem;
   color: rgb(0, 0, 0);
   text-align: center;
